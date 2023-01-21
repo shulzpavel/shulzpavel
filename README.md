@@ -22,9 +22,3 @@
 2.  [Russian Travel](https://shulzpavel.github.io/russian-travel/)
 3.  [Mesto](https://shulzpavel.github.io/mesto/index.html)
 4.  [Movies Explorer](https://github.com/bmstustudent/movies-explorer-frontend)
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/shulzpavel/shulzpavel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmstustudent&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
