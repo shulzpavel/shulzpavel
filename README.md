@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name is Pavel Shults and I'm a juniour frontend developer.
+## My name is Pavel Shults and I'm a junior frontend developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7a9ad2)
